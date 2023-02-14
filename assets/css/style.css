@@ -1,0 +1,201 @@
+ 
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&display=swap');
+
+.justify_content_btwn{
+    justify-content: space-between;
+}
+.padding_left{
+    padding-left: 100px;
+}
+
+.font_family_dm_sans{
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 26px;
+    
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    
+   
+    
+    color: rgba(21, 20, 57, 0.4);
+    
+    mix-blend-mode: normal;
+
+}
+.border{
+    border: 2px solid #EBEAED;
+    border-radius: 100px;
+    
+} 
+
+
+
+.container{
+    max-width: 1140px;
+    padding-left: 12px;
+    padding-right: 12px;
+   margin: 0 auto;
+   box-sizing: border-box;
+   padding-top: 12px;
+}
+  
+ .d-flex{
+    display: flex;
+ }
+ .j_c_bn{
+    justify-content: center;
+ }
+ .margin_l_r{
+    margin-left: 200px;
+    margin-right: 200px;
+ }
+ .m_height{
+    min-height: 75vh;
+ }
+ .a_center{
+    align-items: center;
+ }
+ .justify_content_center{
+    justify-content: center;
+ }
+ .text_c{
+    text-align: center;
+ }
+ .margin_l{
+    margin-left: 70px;
+   
+ }
+ .property{
+   height: 20px;
+width: 200px;
+left: 0px;
+top: 0px;
+border-radius: 100px;
+
+ }
+ .p-l{
+   padding-left: 20px;
+ }
+ .margin{
+   margin-top: 50px;
+ }
+
+ .p-l1{
+   padding-left: 180px;
+ }
+ .startup{
+   size: 24px;
+ }
+
+.padding1{
+padding-top: 8px;
+padding-left: 18px;
+}
+.clr{
+   background: #25DAC5;
+   border-radius: 100px;
+}
+.box{
+   border: 1px solid  #EBEAED;
+   background-color: #EBEAED;
+   position:relative;
+}
+.padding2{
+   padding-left:  25px ;
+   padding-right: 25px;
+   padding-top: 25px;
+   padding-bottom: 25px;
+   
+}
+.table {
+   border-collapse: collapse;
+   width: 100%;
+ 
+ }
+ .th {
+   padding: 20px;
+   text-align: left;
+   border-bottom: 1px solid #ddd;
+
+ }
+ .tr:hover {background-color: coral}
+ /* .margin_top{
+   margin-top: 50px;
+ } */
+.align-item{
+   align-items: flex-start;
+}
+
+.box2{
+   border: 1px solid white;
+   text-align: center;
+   height: fit-content;
+}
+.pd{
+   padding: 0%;
+}
+.a_item{
+   align-items: flex-end;
+}
+
+.btn{
+   border-radius: 200px  ;
+   background: #25DAC5;
+}
+
+ .font_fam_d_s{
+   font-family: 'DM Sans';
+   font-style: normal;
+   font-weight: 700;
+   font-size: 42px;
+   line-height: 52px;
+   /* identical to box height, or 124% */
+   
+   letter-spacing: -0.4px;
+   
+   /* Colors / Heading */
+   
+   color: #1E0E62;
+
+ }
+.font_family{
+   font-family: 'DM Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 22px;
+line-height: 32px;
+color: #1E0E62;
+}
+.f_f{
+   font-family: 'DM Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 28px;
+color: rgba(21, 20, 57, 0.4);
+
+mix-blend-mode: normal;
+}
+.th_font{
+   font-family: 'DM Sans';
+   font-style: normal;
+   font-weight: 400;
+   font-size: 16px;
+   line-height: 26px;
+   
+   color: #1E0E62;
+}
+.font_button{
+   font-family: 'DM Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 26px;
+display: flex;
+align-items: center;
+text-align: center;
+color: #FFFFFF;
+}

@@ -1,0 +1,17 @@
+.container{
+    margin: 0 auto;
+    padding-left: 12px;
+    padding-right: 12px;
+    box-sizing: border-box;
+    max-width:1140px;
+}
+.d_flex{
+    display: flex;
+}
+.jus_con_bn{
+    justify-content: center;
+}
+.mar_lr{
+    margin-left: 20px;
+    margin-right: 20px;
+}
